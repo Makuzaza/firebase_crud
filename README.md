@@ -6,7 +6,7 @@ This very simple project is used for learning how to make CRUD app with Firestor
 
 1. Make sure to change the firebaseConfig from src/index.js
 2. Make sure in Firestore you have read and write permission on
-3. Insert, Update and Delete records accordinly
+3. Insert, Update and Delete records accordingly
 4. You can also use Find By ID to find items from firebase database
 
 # Tech stack
