@@ -3,15 +3,13 @@ import { getAnalytics } from "firebase/analytics";
 
 import {getDatabase, ref, get, set, child, update, remove} from "firebase/database";
 const firebaseConfig = {
-  apiKey: "AIzaSyAb99Vo5U39ZHI4le-T0uRc9FcSyVgVASQ",
-  authDomain: "fir-tutorial-1-cfc14.firebaseapp.com",
-  projectId: "fir-tutorial-1-cfc14",
-  storageBucket: "fir-tutorial-1-cfc14.appspot.com",
-  messagingSenderId: "609571018988",
-  appId: "1:609571018988:web:3a08835e77110237566dc9",
-  measurementId: "G-JBGGGXPH5C"
-};
-
+    apiKey: "AIzaSyAT2lvGEhzVdSwPmhh6r58MOnL0L4p934g",
+    authDomain: "people-f1097.firebaseapp.com",
+    projectId: "people-f1097",
+    storageBucket: "people-f1097.appspot.com",
+    messagingSenderId: "541779336485",
+    appId: "1:541779336485:web:5db3901836ac1b14330ecc"
+  };
 
 // Initialize Firebase
 
